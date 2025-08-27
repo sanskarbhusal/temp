@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.hide {
+    color: transparent;
+}
+
+.show {
+    color: black;
+}
